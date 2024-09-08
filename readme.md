@@ -69,8 +69,3 @@ Developed by [Spidawerx](https://spidawerx.com)
 
 ### 1.0
 - Initial release
-```
-
-This README provides a comprehensive overview of the plugin, including its purpose, features, installation instructions, usage guide, and other important information. You can save this content in a file named `README.md` in the root directory of your plugin.
-
-Would you like me to make any changes or additions to this README?
